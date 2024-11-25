@@ -1,0 +1,28 @@
+familiaridade 1) Qual é a sua familiaridade com ferramentas de inteligência artificial (IA)?,
+uso_IA 2) Você utiliza ferramentas de Inteligência Artificial para auxiliar seus estudos? ,"
+uso_ferramentas 3) Caso tenha respondido SIM à questão acima, quais ferramentas de IA você utiliza para apoiar seus estudos? (Por favor, liste as ferramentas e suas finalidades)",
+qualidade_ensino_pesquisa 4) Você considera que ferramenta(s) de IA pode(m) contribuir para melhorar a sua aprendizagem e o seu desenvolvimento acadêmico?,"
+qualidade_como 5) Caso tenha respondido SIM à questão acima, como a IA pode contribuir para melhorar a sua aprendizagem e desenvolvimento acadêmico?",
+avalicao_ensino 6) Você já usou alguma ferramenta de IA para realizar atividades de avaliação? ,"
+avalizacao_como 7) Caso já tenha utilizado alguma(s) ferramenta(s) de IA para realizar atividades de avaliação, qual(is) foi/foram?",
+preocupacao_IA 8) Qual é a sua principal preocupação em relação ao uso de IA no contexto acadêmico?,
+preocupacao_outras 9) Que outras preocupações você tem em relação ao uso de IA no contexto acadêmico?,
+enfretou_desafios_IA 10) Você já enfrentou desafios ou problemas relacionados ao uso de IA nos seus estudos? ,"
+desafios_quais 11) Caso tenha respondido SIM à questão acima, quais foram os desafios e problemas? Descreva-os brevemente.",
+desafios_unilab_contribuir 12) Você acha que a UNILAB pode contribuir no enfrentamento aos desafios e problemas relacionados ao uso de IA nos estudos?,"
+desafios_unilab_contribuir_como 13) Caso tenha respondido SIM à questão acima, como você acha que a instituição pode contribuir no enfrentamento desses desafios e problemas?",
+apoio_IA_etica 14) Você considera ser necessário algum tipo de apoio ou recurso(s) para usar IA de forma ética e responsável? ,"
+politicas_unilab_IA 15) Caso tenha respondido SIM à questão anterior, que tipo de apoio ou recurso(s) você considera úteis para usar IA de forma ética e responsável? Pode marcar mais de uma opção.
+politicas_unilab_IA_quais 16) Você acha que a UNILAB deve informar e educar os/as docentes sobre os benefícios e riscos da IA?","
+unilab_educar_IA 17) Caso tenha respondido SIM à questão anterior, como você acha que a instituição deve informar e educar os/as docentes sobre os benefícios e riscos da IA?
+
+
+
+
+
+
+comente essa célula com `#`  para um público leigo
+
+update_layout(height=800)
+
+simplifique o código mantendo o mesmo resultado

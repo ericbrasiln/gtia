@@ -1,0 +1,42 @@
+---
+title: "Formação: GTIA"
+author: "Eric Brasil"
+date: "2024-07-29"
+lang: "pt-BR"
+---
+**1. Histórico da Inteligência Artificial**
+   - Década de 1950: Alan Turing e o Teste de Turing
+   - Década de 1950-60: Dartmouth Conference e primeiros programas de IA
+   - Década de 1970: Primeira Inverno da IA e sistemas especialistas
+   - Década de 1980: Renascimento da IA e redes neurais
+   - Década de 1990: IA em jogos
+   - Década de 2000: IA na vida cotidiana
+   - Década de 2010: Aprendizado profundo e AlphaGo
+   - 2020s: IA generativa, ética e regulação
+
+**2. O Teste de Turing**
+   - Definição e propósito
+   - Funcionamento e exemplo simples
+
+**3. Conceitos de IA**
+   - LLM (Large Language Model)
+     - Definição e funcionamento
+     - Uso em ferramentas como o ChatGPT
+   - Redes Neurais
+     - Definição e estrutura
+     - Funcionamento e exemplo simples
+   - Deep Learning
+     - Definição e funcionamento
+     - Aplicações e exemplo simples
+
+**4. Singularidade Tecnológica**
+   - Definição e implicações
+
+**5. Diferenciação entre IA Generativa e IA Geral**
+   - IA Generativa: definição, foco e exemplos
+   - IA Geral: definição, foco e comparação com IA generativa
+
+**6. Políticas e Diretrizes sobre IA**
+   - Resumo das políticas do Arxiv sobre o uso de ferramentas de IA
+   - Citações de IA generativa segundo a MLA
+
